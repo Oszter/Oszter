@@ -7,5 +7,5 @@ Desenvolvedor Back-end
 C# .Net, Java
 SqlServer, MySql
 JavaScript
-Linux, CentOS
+Linux,
 PHP
